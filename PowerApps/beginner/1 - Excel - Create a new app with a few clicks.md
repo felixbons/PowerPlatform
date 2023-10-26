@@ -1,4 +1,4 @@
-# Create a new PowerApp with a few clicks with Excel as data source
+# Create a new PowerApp with Excel as data source
 
 ### Requirements
 | Item   | Description |
