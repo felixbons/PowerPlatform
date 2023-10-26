@@ -12,4 +12,4 @@ PowerApps offers an easy solution to create apps with a few click once you defin
 
 1.- Go to [PowerApps Studio](https://make.powerapps.com/)
 
-![Step 1](PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
+![Step 1](/PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
