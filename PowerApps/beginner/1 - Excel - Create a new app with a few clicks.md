@@ -5,7 +5,7 @@
 | ------ | ------ |
 | Powerapps Studio | You need your PowerApps studio, if not check this [link](https://google.com) |
 | Excel  | Your need your excel with your data structure|
-| File  | You can get the example [here](/PowerApps/assets/files/Topic 1/Inventory.xlsx)|
+| File  | You can get the example [here](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/assets/files/Topic%201/Inventory.xlsx) |
 
 PowerApps offers an easy solution to create apps with a few click once you define you data source, this could be with Excel, SharePoint, SQL or Dataverse.
 
