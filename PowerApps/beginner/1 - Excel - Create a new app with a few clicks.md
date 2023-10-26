@@ -8,6 +8,8 @@
 
 PowerApps offers an easy solution to create apps with a few click once you define you data source, this could be with Excel, SharePoint, SQL or Dataverse.
 
-##Steps to create a PowerApps from scratch
+## Steps to create a PowerApps from scratch
 
 1.- Go to [PowerApps Studio](https://make.powerapps.com/)
+
+![Step 1](PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
