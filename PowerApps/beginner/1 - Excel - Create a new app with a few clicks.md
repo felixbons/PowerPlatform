@@ -4,7 +4,8 @@
 | Item   | Description |
 | ------ | ------ |
 | Powerapps Studio | You need your PowerApps studio, if not check this [link](https://google.com) |
-| Excel  | Your need your excel with the information|
+| Excel  | Your need your excel with your data structure|
+| File  | You can get the example [here](/PowerApps/assets/files/Topic 1/Inventory.xlsx)|
 
 PowerApps offers an easy solution to create apps with a few click once you define you data source, this could be with Excel, SharePoint, SQL or Dataverse.
 
