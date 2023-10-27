@@ -20,14 +20,17 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
 1.- Use Copilot \
 2.- Upload and Excel File\
     Upload your own excel file direct from your computer.\
+    \
 3.- Start with a blank table\
     Design your table data from scratch\
+    \
 4.- Select an existing table\
     Use existing Dataverse tables \
-5.- Select external data\
+    \
+5.- Select external data:\
     SPO\
     Excel\
-    SQL\
+    SQL
 
 ![Step 2](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSource.png)
 
