@@ -7,7 +7,7 @@
 | Excel  | Your need your excel with your data structure|
 | File  | You can get the example [here](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/assets/files/Topic%201/Inventory.xlsx) |
 
-PowerApps offers an easy solution to create apps with a few click once you define you data source, this could be with Excel, SharePoint, SQL or Dataverse.
+PowerApps offers an easy solution to create apps with a few clicks, once you define your data structure, you can use next data sources: Excel, SharePoint, SQL or Dataverse.
 
 ## Steps to create a PowerApps from scratch
 
@@ -16,13 +16,18 @@ PowerApps offers an easy solution to create apps with a few click once you defin
 
 ![Step 1](/PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
 
-![Step 1](/PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
 ![Step 2](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSource.png)
+
 ![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)
+
 ![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)
+
 ![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
+
 ![Step 6](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSPOSource.png)
+
 ![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
 
-![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
+    ![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
+
 ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
