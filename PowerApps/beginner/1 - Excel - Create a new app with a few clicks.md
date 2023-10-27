@@ -11,30 +11,31 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
 
 ## Steps to create a PowerApps from scratch
 
-A.- Go to [PowerApps Studio](https://make.powerapps.com/)\
+### A.- 
+Go to [PowerApps Studio](https://make.powerapps.com/)\
 1.1.-Click in Apps > New App > Start with data
 
 ![Step 1](/PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)\
 
-B
+###B
 1.- Use Copilot \
 2.- Upload and Excel File\
 3.- Start with a blank table\
 4.- Select an existing table\
 5.- Select external data\
 
-![Step 2](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSource.png)\
+![Step 2](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSource.png)
 
-![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)\
+![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)
 
-![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)\
+![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)
 
-![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)\
+![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
 
-![Step 6](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSPOSource.png)\
+![Step 6](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSPOSource.png)
 
-![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)\
+![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
 
-    ![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)\
+![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
 
-![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)\
+![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
