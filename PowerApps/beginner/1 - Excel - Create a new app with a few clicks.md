@@ -11,7 +11,7 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
 
 ## Steps to create a PowerApps from scratch
 
-1.- Go to [PowerApps Studio](https://make.powerapps.com/)
+1.- Go to [PowerApps Studio](https://make.powerapps.com/)\
 1.1.-Click in Apps > New App > Start with data
 
 ![Step 1](/PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
