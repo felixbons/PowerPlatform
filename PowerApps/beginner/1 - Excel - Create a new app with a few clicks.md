@@ -17,33 +17,43 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
 ![Step 1](/PowerApps/assets/Topic_1_CreateAnAppWithSource/NewAppHomePage.png)
 
 ### B.- "Start with data" Options
-1.- Use Copilot \
-2.- Upload and Excel File\
-    Upload your own excel file direct from your computer.\
-    \
-3.- Start with a blank table\
-    Design your table data from scratch\
-    \
-4.- Select an existing table\
-    Use existing Dataverse tables \
-    \
-5.- Select external data:\
-    SPO\
-    Excel\
-    SQL
 
 ![Step 2](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSource.png)
 
-![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)
+1.- Use Copilot \
+\
+2.- Upload and Excel File\
+    Upload your own excel file direct from your computer.\
+    \
+    ![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)
+3.- Start with a blank table\
+    Design your table data from scratch\
+    \
+    ![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)
+4.- Select an existing table\
+    Use existing Dataverse tables \
+    \
+    ![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
+5.- Select external data:\
+    SPO\
+    ![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
+    Excel\
+    ![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
+    SQL
+    ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
 
-![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)
 
-![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
+
+
+
+
+
+
 
 ![Step 6](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSPOSource.png)
 
-![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
 
-![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
 
-![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
+
+
+
