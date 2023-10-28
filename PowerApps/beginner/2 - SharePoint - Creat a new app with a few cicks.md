@@ -42,13 +42,13 @@ Excel\
 SQL
 ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
 ### Select SharePoint option
-Then enter the file location to select the document library > document > Table\
-or search in all options available, select the file and the table option, after that click in Create App\
-![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
+Then enter the URL location to select the List\
+or search in all recent sites, then select the List, after that click in Create App\
+![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSPOSource.png)
 Automatically PowerApps will start to create the App.
 ![Step 11](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreatingAutomaticPowerApp.png)
-After some minutes the app will be ready.
-![Step 12](/PowerApps/assets/Topic_1_CreateAnAppWithSource/PowerAppFinalWithExcel.png)
+After some seconds the app will be ready.
+![Step 12](/PowerApps/assets/Topic_1_CreateAnAppWithSource/AppCompleteSPO.png)
 Finally, you need to save and publish the app.
 
 
