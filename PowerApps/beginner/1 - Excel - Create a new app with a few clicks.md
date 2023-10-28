@@ -43,11 +43,11 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
     SQL
     ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
 ### Select Excel option\
-    Then enter the file location to filter results\
-    or search in all options available, select the file and the table option, after that click in Create App\
-    ![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
+Then enter the file location to filter results\
+or search in all options available, select the file and the table option, after that click in Create App\
+![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
 
-    ![Step 11](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreatingAutomaticPowerApp.png)
+![Step 11](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreatingAutomaticPowerApp.png)
 
 
 
