@@ -46,8 +46,14 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
 Then enter the file location to select the document library > document > Table\
 or search in all options available, select the file and the table option, after that click in Create App\
 ![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
-
+Automatically PowerApps will start to create the App.
 ![Step 11](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreatingAutomaticPowerApp.png)
+After some minutes the app will be ready.
+![Step 12](/PowerApps/assets/Topic_1_CreateAnAppWithSource/PowerAppFinalWithExcel.png)
+Finally, you need to save and publish the app.
+
+
+
 
 
 
