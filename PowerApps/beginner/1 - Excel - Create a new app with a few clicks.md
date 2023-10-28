@@ -42,8 +42,8 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
     ![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
     SQL
     ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
-### Select Excel option\
-Then enter the file location to filter results\
+### Select Excel option
+Then enter the file location to select the document library > document > Table\
 or search in all options available, select the file and the table option, after that click in Create App\
 ![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
 
