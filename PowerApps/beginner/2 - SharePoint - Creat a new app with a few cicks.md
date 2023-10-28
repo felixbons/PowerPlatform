@@ -4,7 +4,7 @@
 | Item   | Description |
 | ------ | ------ |
 | Powerapps Studio | You need your PowerApps studio, if not check this [link](https://google.com) |
-| SharePoint  | Your need your excel with your data structure \\ This is a test
+| SharePoint  | Your need your excel with your data structure &#10; This is a test
 
 |
 
