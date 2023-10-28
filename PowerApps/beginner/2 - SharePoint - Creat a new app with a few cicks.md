@@ -4,7 +4,7 @@
 | Item   | Description |
 | ------ | ------ |
 | Powerapps Studio | You need your PowerApps studio, if not check this [link](https://google.com) |
-| SharePoint  | Your need your excel with your data structure \ This is a test
+| SharePoint  | Your need your excel with your data structure \\ This is a test
 
 |
 
@@ -24,26 +24,26 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
 1.- Use Copilot \
 \
 2.- Upload and Excel File\
-    Upload your own excel file direct from your computer.\
-    \
-    ![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)
+Upload your own excel file direct from your computer.\
+\
+![Step 3](/PowerApps/assets/Topic_1_CreateAnAppWithSource/UploadFile.png)
 3.- Start with a blank table\
-    Design your table data from scratch\
-    \
-    ![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)
+Design your table data from scratch\
+\
+![Step 4](/PowerApps/assets/Topic_1_CreateAnAppWithSource/BuildOutYourTable.png)
 4.- Select an existing table\
-    Use existing Dataverse tables \
-    \
-    ![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
+Use existing Dataverse tables \
+\
+![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
 5.- Select external data:\
-    Options availables are:
-    SPO\
-    ![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
-    Excel\
-    ![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
-    SQL
-    ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
-### Select Excel option
+Options availables are:
+SPO\
+![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
+Excel\
+![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
+SQL
+![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
+### Select SharePoint option
 Then enter the file location to select the document library > document > Table\
 or search in all options available, select the file and the table option, after that click in Create App\
 ![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
