@@ -35,22 +35,22 @@ PowerApps offers an easy solution to create apps with a few clicks, once you def
     \
     ![Step 5](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectExistingTable.png)
 5.- Select external data:\
+    Options availables are:
     SPO\
     ![Step 7](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSPO.png)
     Excel\
     ![Step 8](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromExcel.png)
     SQL
     ![Step 9](/PowerApps/assets/Topic_1_CreateAnAppWithSource/ConnectFromSQL.png)
+    Select Excel option\
+    Then enter the file location to filter results\
+    or search in all options available, select the file and the table option, after that click in Create App\
+    ![Step 10](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreateanExcelApp.png)
+
+    ![Step 11](/PowerApps/assets/Topic_1_CreateAnAppWithSource/CreatingAutomaticPowerApp.png)
 
 
 
-
-
-
-
-
-
-![Step 6](/PowerApps/assets/Topic_1_CreateAnAppWithSource/SelectSPOSource.png)
 
 
 
