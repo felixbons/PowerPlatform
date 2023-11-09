@@ -1,7 +1,6 @@
 # PowerApps Editor - Let's take a look
 
-### Requirements
-| Item   | Description |
-| ------ | ------ |
-| Powerapps Studio | PowerApps studio [link](https://make.powerapps.com/) |
+## PowerApps Editor
+
+![PowerApps Editor](/PowerApps/assets/Topic 3/2023-11-07_22-23-31.png)
 
