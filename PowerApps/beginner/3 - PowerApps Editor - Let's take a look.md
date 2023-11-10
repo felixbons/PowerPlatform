@@ -23,3 +23,7 @@
 9. Paso 9
 
 10. Paso 10
+
+11. Paso 11
+
+12. Paso 12
