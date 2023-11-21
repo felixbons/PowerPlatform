@@ -33,13 +33,5 @@
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_22-49-41.png)
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_22-59-27.png)
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_22-59-50.png)
-![PowerApps1](/PowerApps/assets/topicCC/AllCustomConnectors.png)
-
-![PowerApps1](/PowerApps/assets/topicCC/CreateFromBlankName.png)
 
 
-![PowerApps1](/PowerApps/assets/topicCC/FindCustomConnectorPage.png)
-![PowerApps1](/PowerApps/assets/topicCC/FoundItCustomConnector.png)
-![PowerApps1](/PowerApps/assets/topicCC/PublicAPI.png)
-![PowerApps1](/PowerApps/assets/topicCC/SelectBlankConnector.png)
-![PowerApps1](/PowerApps/assets/topicCC/TestAPIWithUSDtoMXN.pngv)
