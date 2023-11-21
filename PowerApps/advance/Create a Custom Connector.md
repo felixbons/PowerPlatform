@@ -1,9 +1,13 @@
 # Create a Custom Connector
 
+![Register Api](/PowerApps/assets/topicCC/CurrencyScoopLogin.png)
+![Home API](/PowerApps/assets/topicCC/currencybeaconHome.png)
+![API KEY](/PowerApps/assets/topicCC/APIKey.png)
+
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-08-59.png)
-![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-13-23.png)
-![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-17-33.png)
-![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-33-42.png)
+
+
+
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-36-16.png)
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-45-25.png)
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_21-45-50.png)
@@ -32,10 +36,10 @@
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_22-59-27.png)
 ![PowerApps1](/PowerApps/assets/topicCC/2023-11-13_22-59-50.png)
 ![PowerApps1](/PowerApps/assets/topicCC/AllCustomConnectors.png)
-![PowerApps1](/PowerApps/assets/topicCC/APIKey.png)
+
 ![PowerApps1](/PowerApps/assets/topicCC/CreateFromBlankName.png)
-![PowerApps1](/PowerApps/assets/topicCC/currencybeaconHome.png)
-![PowerApps1](/PowerApps/assets/topicCC/CurrencyScoopLogin.png)
+
+
 ![PowerApps1](/PowerApps/assets/topicCC/FindCustomConnectorPage.png)
 ![PowerApps1](/PowerApps/assets/topicCC/FoundItCustomConnector.png)
 ![PowerApps1](/PowerApps/assets/topicCC/PublicAPI.png)
