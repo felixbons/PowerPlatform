@@ -1,0 +1,1 @@
+# PowerApps Editor - Virtual agent and properties

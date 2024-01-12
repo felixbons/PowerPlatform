@@ -1,0 +1,1 @@
+# PowerApps Editor - Power Apps Studio modern command bar

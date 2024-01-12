@@ -1,0 +1,1 @@
+# PowerApps Editor - Properties Pane

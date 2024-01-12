@@ -1,0 +1,1 @@
+# PowerApps Editor - App authoring options - Screens and Components
