@@ -13,7 +13,7 @@ Insert section you can select and add any control avialble in the platform, sinc
 ![AUInsert](/PowerApps/assets/topic3_subtopics/1/2024-01-30_21-24-11.png)
 
 * Data<br>
-You see all connections added and collection created in your PowerApp, also you can add and remove new connections with any connector available in your environment.
+You see all connections added and collection created in your PowerApp, also you can add and remove new connections with any connector available in your environment.<br>
 ![AUData](/PowerApps/assets/topic3_subtopics/1/2024-01-30_21-24-34.png)
 
 * Media <br>
