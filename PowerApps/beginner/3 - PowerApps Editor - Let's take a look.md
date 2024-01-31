@@ -4,7 +4,7 @@
 
 ![PowerApps1](/PowerApps/assets/Topic3/2023-11-07_22-23-31.png)
 
-1. [App authoring menu](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/1%20App%20authoring%20menu.md)-->
+1. [App authoring menu](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/1%20App%20authoring%20menu.md)--> Pane with options to check the app structure, insert or modify de data or connector, direct access to add new controls, advanced debugging.<br>
 
 2. [App authoring options](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/2%20App%20authoring%20options.md)-->
 
