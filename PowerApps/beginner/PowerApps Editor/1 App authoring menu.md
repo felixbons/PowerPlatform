@@ -33,7 +33,7 @@ We have two importan options to Monitor and Test our application, we can track r
 You can check in next links more information about it.<br>
 [Monitor Learn More](https://learn.microsoft.com/en-us/power-apps/maker/monitor-canvasapps)<br>
 [Tests](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/test-studio)<br>
-![AUAT](/PowerApps/assets/topic3_subtopics/1/2024-01-30_21-27-16.png)
+![AUAT](/PowerApps/assets/topic3_subtopics/1/2024-01-30_21-27-29.png)
 
 * Search<br>
 Search for media, text, data source, formulas and others functionality like replace information.<br>
