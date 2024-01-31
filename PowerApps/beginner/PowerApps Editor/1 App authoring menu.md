@@ -1,4 +1,5 @@
 # PowerApps Editor - App authoring menu
+[Return to Main Topic](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/3%20-%20PowerApps%20Editor%20-%20Let's%20take%20a%20look.md)
 
 This App Authoring Menu is very importan to manage importan activities in the app, like see all app structure, insert controls in the screen, add media, add new data o connectors, add new flows or create it direct and more:<br>
 
@@ -37,4 +38,6 @@ You can check next links for more information about it.<br>
 
 * Search<br>
 Search for media, text, data source, formulas and others functionality like replace information.<br>
-![AUSearch](/PowerApps/assets/topic3_subtopics/1/2024-01-30_21-27-50.png)
+![AUSearch](/PowerApps/assets/topic3_subtopics/1/2024-01-30_21-27-50.png)<br>
+
+[Return to Main Topic](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/3%20-%20PowerApps%20Editor%20-%20Let's%20take%20a%20look.md)
