@@ -2,7 +2,7 @@
 [Return to Main Topic](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/3%20-%20PowerApps%20Editor%20-%20Let's%20take%20a%20look.md)<br>
 It shows details of App Authoring options items selection as Tree View, data connection, Flows details etc<br>
 
-As example with Tree View option, next image shows the app details, screens, controls added to PowerApp, also Tree view option has an internal tab called Components, this section show all available components to use in the app.<br>
+As example with Tree View option, next image shows the app details, screens, controls added to PowerApp, also Tree view option has an internal tab called [Components](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/3%20App%20authoring%20options%20-%20Screens%20and%20Components.md), this section show all available components to use in the app.<br>
 
 ![AppAuthoringOptions](/PowerApps/assets/Topic3/PAEDetails/2024-01-11_21-27-56.png)<br>
 

@@ -8,7 +8,7 @@
 
 2. [App authoring options](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/2%20App%20authoring%20options.md)--> Check all details from each App Authoriting Menu items.
 
-3. [App authoring options - Screens and Components](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/3%20App%20authoring%20options%20-%20Screens%20and%20Components.md)-->
+3. [App authoring options - Screens and Components](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/3%20App%20authoring%20options%20-%20Screens%20and%20Components.md)--> Tree View option has a extra tab called components that you can reuse them through all screens with own configuration according to each of them.
 
 4. [Properties list](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/4%20Properties%20list.md)-->
 
