@@ -6,7 +6,7 @@
 
 1. [App authoring menu](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/1%20App%20authoring%20menu.md)--> Pane with options to check the app structure, insert or modify de data or connector, direct access to add new controls, advanced debugging.<br>
 
-2. [App authoring options](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/2%20App%20authoring%20options.md)--> Check all details from each App Authoriting Menu items. It is split in two tabl
+2. [App authoring options](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/2%20App%20authoring%20options.md)--> Check all details from each App Authoriting Menu items.
 
 3. [App authoring options - Screens and Components](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/PowerApps%20Editor/3%20App%20authoring%20options%20-%20Screens%20and%20Components.md)-->
 
