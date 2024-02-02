@@ -4,7 +4,7 @@
 
 This section you can :<br>
 
-- Check your status in the app if you are editing or user is in read mode.<br>
+- Check the status of your app to determine whether you are in editing mode or if the user is in read mode.<br>
 - Share-> Share the app with other users or groups<br>
 - App Checker-> check the errors, warnings, performance or Accessility issues. <br>
 - Comments-> Add your comments to the app<br>
