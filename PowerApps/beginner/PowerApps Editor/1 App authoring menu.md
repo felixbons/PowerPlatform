@@ -1,7 +1,7 @@
 # PowerApps Editor - App authoring menu
 [Return to Main Topic](https://github.com/felixbons/PowerPlatform/blob/main/PowerApps/beginner/3%20-%20PowerApps%20Editor%20-%20Let's%20take%20a%20look.md)
 
-This App Authoring Menu is very importan to manage importan activities in the app, like see all app structure, insert controls in the screen, add media, add new data o connectors, add new flows or create it direct and more:<br>
+The App Authoring Menu plays a crucial role in efficiently managing important activities within the app, like see all app structure, insert controls in the screen, add media, add new data o connectors, add new flows or create it direct and more:<br>
 
 * Tree View<br>
 You can check all app structure here checking all Screens, components and controls(textbox, dropdowns, image control, AI and others) that you application has.<br>
