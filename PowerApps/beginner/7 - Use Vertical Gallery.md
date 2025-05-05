@@ -12,6 +12,10 @@ In properties section you can select the Data source from available connectors o
 
 * 1 .- Data Source
 
+Select data sources available or custom connectors added previously.
+
+![Step 2](/PowerApps/assets/Topic7/2024-09-02_20-48-57.png)
+
 * 2 .- Fields
 
 According to template selected, it is possible to change the fields selected by default. This option shows the available fields from Data Source that user can choose and show in the gallery.
@@ -26,7 +30,11 @@ Vertical Gallery provides a default layout to help the data display that you can
 
 * 4 .- Visible, Position and Size
 
+This option is similar in each component where you can configure component potision, size and visibility.
+
 * 5 .- Color and Border
+
+
 
 * 6 .- Wrap Content, Template Size and Template Padding
 
@@ -34,7 +42,7 @@ Vertical Gallery provides a default layout to help the data display that you can
 
 
 
-![Step 2](/PowerApps/assets/Topic7/2024-09-02_20-48-57.png)
+
 
 
 
