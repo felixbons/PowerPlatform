@@ -7,7 +7,7 @@
 ## ✅ Course Outline
 
 ### Day 1
-What is Power Platform? – Overview, components, and use cases
+**What is Power Platform?** – Overview, components, and use cases
 
 **Microsoft Power Platform** is a low-code suite for building apps, automating workflows, analyzing data, and creating chatbots.
 
@@ -23,6 +23,8 @@ What is Power Platform? – Overview, components, and use cases
 
 ### 💼 Use Cases:
 Operations, Finance, HR, Field Service, Customer Service
+
+[**Go to Day 1: What is Power Platform**](/PowerPlatform/Power%20Platform%2030%20days/Day01.md)
 
 ### Day 2
 Create your free trial environment and explore the Maker Portal
