@@ -13,11 +13,11 @@ Power Platform consists of **four core components** that work seamlessly togethe
 
 | Component | Description |
 |----------|-------------|
-| **Power Apps** | Build custom apps for web and mobile using drag-and-drop and Excel-like expressions. Two types: Canvas and Model-Driven Apps. |
-| **Power Automate** | Automate repetitive tasks and processes across applications and services (formerly Microsoft Flow). |
-| **Power BI** | Analyze data and create visual dashboards and reports with interactive visualizations. |
-| **Power Virtual Agents** | Build chatbots to handle customer or employee interactions without writing code. |
-| **Power Pages** | Power Pages is a secure, low-code platform within Microsoft Power Platform that allows you to build external-facing websites — such as customer portals, partner dashboards, registration sites, and service request forms — with rich customization and integration capabilities. |
+| [**Power Apps**](https://learn.microsoft.com/en-us/power-apps/) | Build custom apps for web and mobile using drag-and-drop and Excel-like expressions. Two types: Canvas and Model-Driven Apps. |
+| [**Power Automate**](https://learn.microsoft.com/en-us/power-automate/) | Automate repetitive tasks and processes across applications and services (formerly Microsoft Flow). |
+| [**Power BI**](https://learn.microsoft.com/en-us/power-bi/) | Analyze data and create visual dashboards and reports with interactive visualizations. |
+| [**Power Virtual Agents (Copilot Studio)**](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) | Build chatbots to handle customer or employee interactions without writing code. |
+| [**Power Pages**](https://learn.microsoft.com/en-us/power-pages/) | Power Pages is a secure, low-code platform within Microsoft Power Platform that allows you to build external-facing websites — such as customer portals, partner dashboards, registration sites, and service request forms — with rich customization and integration capabilities. |
 
 ---
 
