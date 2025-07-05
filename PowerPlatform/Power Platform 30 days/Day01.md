@@ -32,11 +32,11 @@ Power Platform consists of **four core components** that work seamlessly togethe
 
 | Area                 | Use Cases                                             |                                             |
 | -------------------- | ----------------------------------------------------- | ------------------------------------------------- |
-| **Operations**       | Approvals, Inventory Management, Asset Tracking       | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/Operations.png" alt="Operations" width="200" height="200"/>            |
-| **Finance**          | Expense Reports, Budget Approvals, Invoice Automation | ![Finance](/PowerPlatform/assets/PowerPlatform30days/Day1/Finance.png){ .small-img }                  |
-| **HR**               | Employee Onboarding, Leave Requests, Surveys          | ![HR](/PowerPlatform/assets/PowerPlatform30days/Day1/HR.png){ .small-img }                            |
-| **Field Service**    | Inspections, Mobile Data Entry, Incident Tracking     | ![Field Service](/PowerPlatform/assets/PowerPlatform30days/Day1/FieldServices.png){ .small-img }       |
-| **Customer Service** | Chatbots, FAQs, Automated Email Responses             | ![Customer Service](/PowerPlatform/assets/PowerPlatform30days/Day1/CustomerService.png){ .small-img } |
+| **Operations**       | Approvals, Inventory Management, Asset Tracking       | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/Operations.png" alt="Operations" width="300" height="300"/>            |
+| **Finance**          | Expense Reports, Budget Approvals, Invoice Automation | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/Finance.png" alt="Finance" width="300" height="300"/>                |
+| **HR**               | Employee Onboarding, Leave Requests, Surveys          | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/HR.png" alt="HR" width="300" height="300"/>                  |
+| **Field Service**    | Inspections, Mobile Data Entry, Incident Tracking     | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/FieldServices.png" alt="FieldServices" width="300" height="300"/>       |
+| **Customer Service** | Chatbots, FAQs, Automated Email Responses             | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/CustomerService.png" alt="CustomerService" width="300" height="300"/> |
 
 ---
 
