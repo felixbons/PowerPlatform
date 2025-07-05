@@ -53,14 +53,14 @@ This repository includes step-by-step examples, screenshots, and notes on:
 
 | Tool                  | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| ![Power Apps](assets/PowerApps_scalable.svg) | Build low-code apps quickly and securely |
-| ![Power Automate](assets/PowerAutomate_scalable.svg) | Automate repetitive tasks and connect systems |
-| ![Power BI](assets/PowerBI_scalable.svg) | Turn data into interactive dashboards and insights |
-| ![AI Builder](assets/AIBuilder_scalable.svg) | Add intelligence to your apps with no code |
-| ![Dataverse](assets/Dataverse_scalable.svg) | Scalable and secure data platform |
-| ![Power Pages](assets/PowerPages_scalable.svg) | Create modern websites with low-code tools |
-| ![Power Virtual Agents](assets/PowerVirtualAgents_scalable.svg) | Build chatbots for support and automation |
-| ![Power Fx](assets/PowerFx_scalable.svg) | Formula-based language for logic in Power Apps |
+| ![Power Apps](/PowerPlatform/assets/PowerApps_scalable.svg) | Build low-code apps quickly and securely |
+| ![Power Automate](/PowerPlatform/assets/PowerAutomate_scalable.svg) | Automate repetitive tasks and connect systems |
+| ![Power BI](/PowerPlatform/assets/PowerBI_scalable.svg) | Turn data into interactive dashboards and insights |
+| ![AI Builder](/PowerPlatform/assets/AIBuilder_scalable.svg) | Add intelligence to your apps with no code |
+| ![Dataverse](/PowerPlatform/assets/Dataverse_scalable.svg) | Scalable and secure data platform |
+| ![Power Pages](/PowerPlatform/assets/PowerPages_scalable.svg) | Create modern websites with low-code tools |
+| ![Power Virtual Agents](/PowerPlatform/assets/PowerVirtualAgents_scalable.svg) | Build chatbots for support and automation |
+| ![Power Fx](/PowerPlatform/assets/PowerFx_scalable.svg) | Formula-based language for logic in Power Apps |
 
 > Icon source: [Microsoft Power Platform official icons](https://learn.microsoft.com/en-us/power-platform/guidance/icons)
 
