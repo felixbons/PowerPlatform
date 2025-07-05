@@ -1,0 +1,36 @@
+# 📘 Power Platform in 30 Days
+
+Welcome to the 30-day learning journey!
+
+## 📅 Daily Modules
+
+- [Day 01 – What is Power Platform? – Overview, components, and use cases](./Day01.md)
+- [Day 02 – Create your free trial environment and explore the Maker Portal](./Day02.md)
+- [Day 03 – Introduction to Power Apps (Canvas vs Model-driven)](./Day03.md)
+- [Day 04 – Build your first Canvas app from a template](./Day04.md)
+- [Day 05 – Connectors: What they are and how they work (SharePoint, Excel, Dataverse)](./Day05.md)
+- [Day 06 – Introduction to Power Automate – Your first automated flow](./Day06.md)
+- [Day 07 – Best practices for working with the Power Platform interface](./Day07.md)
+- [Day 08 – Controls: Forms, galleries, buttons, dropdowns](./Day08.md)
+- [Day 09 – Variables and context (`Set`, `UpdateContext`, `Navigate`)](./Day09.md)
+- [Day 10 – Validations, notifications, and common errors](./Day10.md)
+- [Day 11 – CRUD operations with SharePoint and Excel (Create, Read, Update, Delete)](./Day11.md)
+- [Day 12 – Professional UX/UI design for Power Apps (visual tips)](./Day12.md)
+- [Day 13 – Reusable components and master screens](./Day13.md)
+- [Day 14 – Publishing, sharing, and permissions in a Canvas app](./Day14.md)
+- [Day 15 – Power Automate: Creating automated, instant, and scheduled flows](./Day15.md)
+- [Day 16 – Variables, conditions, and loops in Power Automate](./Day16.md)
+- [Day 17 – Advanced use of expressions and error handling](./Day17.md)
+- [Day 18 – Introduction to Dataverse: structure, tables, and relationships](./Day18.md)
+- [Day 19 – Creating and using custom tables in Dataverse](./Day19.md)
+- [Day 20 – Power Automate + Dataverse: build connected flows](./Day20.md)
+- [Day 21 – Dataverse security: roles, permissions, and column-level security](./Day21.md)
+- [Day 22 – Model-Driven Power Apps: structure and business logic](./Day22.md)
+- [Day 23 – Power Virtual Agents & Copilot Studio: build your first chatbot](./Day23.md)
+- [Day 24 – Custom Connectors: consume external APIs in Power Apps](./Day24.md)
+- [Day 25 – PDF generation, emails, and attachments using Power Automate](./Day25.md)
+- [Day 26 – Power BI + Power Platform: embed reports into your apps](./Day26.md)
+- [Day 27 – Solutions, environments, export/import practices](./Day27.md)
+- [Day 28 – Center of Excellence (CoE): overview and best practices](./Day28.md)
+- [Day 29 – Real-life use cases: how to structure apps for HR, EHS, travel, etc.](./Day29.md)
+- [Day 30 – Publish your portfolio: GitHub, LinkedIn, and tips to get clients or jobs](./Day30.md)
