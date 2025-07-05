@@ -46,3 +46,6 @@ Power Platform consists of **four core components** that work seamlessly togethe
 - Reduce IT backlog and accelerate innovation  
 - Integrates easily with Microsoft 365, Azure, and hundreds of external systems (via connectors)  
 - Secure, governed, and scalable
+
+➡️ [Next: Day 2 - Create Your Environment](/PowerPlatform/Power%20Platform%2030%20days/Day02.md)
+⬅️ [Previous: Power Platform 30 Days](/PowerPlatform/Power%20Platform%2030%20days.md)
