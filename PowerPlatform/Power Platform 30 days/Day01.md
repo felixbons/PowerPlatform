@@ -32,11 +32,11 @@ Power Platform consists of **four core components** that work seamlessly togethe
 
 | Area                 | Use Cases                                             |                                             |
 | -------------------- | ----------------------------------------------------- | ------------------------------------------------- |
-| **Operations**       | Approvals, Inventory Management, Asset Tracking       | ![Operations](./PowerPlatform/assets/PowerPlatform30days/Day1/operations.png)            |
-| **Finance**          | Expense Reports, Budget Approvals, Invoice Automation | ![Finance](./PowerPlatform/assets/PowerPlatform30days/Day1/finance.png)                  |
-| **HR**               | Employee Onboarding, Leave Requests, Surveys          | ![HR](./PowerPlatform/assets/PowerPlatform30days/Day1/hr.png)                            |
-| **Field Service**    | Inspections, Mobile Data Entry, Incident Tracking     | ![Field Service](./PowerPlatform/assets/PowerPlatform30days/Day1/fieldservices.png)       |
-| **Customer Service** | Chatbots, FAQs, Automated Email Responses             | ![Customer Service](./PowerPlatform/assets/PowerPlatform30days/Day1/customerservice.png) |
+| **Operations**       | Approvals, Inventory Management, Asset Tracking       | ![Operations](/PowerPlatform/assets/PowerPlatform30days/Day1/operations.png)            |
+| **Finance**          | Expense Reports, Budget Approvals, Invoice Automation | ![Finance](/PowerPlatform/assets/PowerPlatform30days/Day1/finance.png)                  |
+| **HR**               | Employee Onboarding, Leave Requests, Surveys          | ![HR](/PowerPlatform/assets/PowerPlatform30days/Day1/hr.png)                            |
+| **Field Service**    | Inspections, Mobile Data Entry, Incident Tracking     | ![Field Service](/PowerPlatform/assets/PowerPlatform30days/Day1/fieldservices.png)       |
+| **Customer Service** | Chatbots, FAQs, Automated Email Responses             | ![Customer Service](/PowerPlatform/assets/PowerPlatform30days/Day1/customerservice.png) |
 
 ---
 
