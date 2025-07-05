@@ -17,6 +17,7 @@ Power Platform consists of **four core components** that work seamlessly togethe
 | **Power Automate** | Automate repetitive tasks and processes across applications and services (formerly Microsoft Flow). |
 | **Power BI** | Analyze data and create visual dashboards and reports with interactive visualizations. |
 | **Power Virtual Agents** | Build chatbots to handle customer or employee interactions without writing code. |
+| **Power Pages** | Power Pages is a secure, low-code platform within Microsoft Power Platform that allows you to build external-facing websites — such as customer portals, partner dashboards, registration sites, and service request forms — with rich customization and integration capabilities. |
 
 ---
 
@@ -29,13 +30,13 @@ Power Platform consists of **four core components** that work seamlessly togethe
 
 ### 📌 Common Use Cases
 
-| Area | Examples |
-|------|----------|
-| **Operations** | Approvals, inventory management, asset tracking |
-| **HR** | Employee onboarding, leave requests, surveys |
-| **Finance** | Expense reports, budget approvals, invoice automation |
-| **Field Service** | Inspections, mobile data entry, incident tracking |
-| **Customer Service** | Chatbots, FAQs, automated email responses |
+| Area                 | Use Cases                                             |                                             |
+| -------------------- | ----------------------------------------------------- | ------------------------------------------------- |
+| **Operations**       | Approvals, Inventory Management, Asset Tracking       | ![Operations](./PowerPlatform/assets/PowerPlatform30days/Day1/operations.png)            |
+| **Finance**          | Expense Reports, Budget Approvals, Invoice Automation | ![Finance](./PowerPlatform/assets/PowerPlatform30days/Day1/finance.png)                  |
+| **HR**               | Employee Onboarding, Leave Requests, Surveys          | ![HR](./PowerPlatform/assets/PowerPlatform30days/Day1/hr.png)                            |
+| **Field Service**    | Inspections, Mobile Data Entry, Incident Tracking     | ![Field Service](./PowerPlatform/assets/PowerPlatform30days/Day1/fieldservices.png)       |
+| **Customer Service** | Chatbots, FAQs, Automated Email Responses             | ![Customer Service](./PowerPlatform/assets/PowerPlatform30days/Day1/customerservice.png) |
 
 ---
 
