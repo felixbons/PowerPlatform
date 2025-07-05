@@ -9,6 +9,21 @@
 ### Day 1
 What is Power Platform? – Overview, components, and use cases
 
+**Microsoft Power Platform** is a low-code suite for building apps, automating workflows, analyzing data, and creating chatbots.
+
+### 🔧 Core Components:
+- **Power Apps** – Build custom apps
+- **Power Automate** – Automate processes
+- **Power BI** – Visualize and analyze data
+- **Power Virtual Agents** – Create chatbots
+
+### 🔗 Extras:
+- **Dataverse** – Secure data platform
+- **AI Builder** – Add AI to apps and flows
+
+### 💼 Use Cases:
+Operations, Finance, HR, Field Service, Customer Service
+
 ### Day 2
 Create your free trial environment and explore the Maker Portal
 
