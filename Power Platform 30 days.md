@@ -1,106 +1,97 @@
-# 📘 Power Platform en 30 Días
+# 📘 Power Platform in 30 Days
 
-> Desde cero hasta experto en Power Apps, Power Automate, Dataverse y más
-
----
-
-## ✅ Temario
-
-### Día 1
-¿Qué es Power Platform? – Visión general, componentes y casos de uso
-
-### Día 2
-Crear tu entorno de prueba gratuito y conocer Maker Portal
-
-### Día 3
-Introducción a Power Apps (Canvas vs Model-driven)
-
-### Día 4
-Crear tu primera app Canvas desde plantilla
-
-### Día 5
-Conectores: Qué son y cómo funcionan (SharePoint, Excel, Dataverse)
-
-### Día 6
-Introducción a Power Automate – Tu primer flujo automatizado
-
-### Día 7
-Buenas prácticas de uso y navegación en la interfaz Power Platform
-
-### Día 8
-Controles: formularios, galerías, botones, dropdowns
-
-### Día 9
-Variables y contexto (`Set`, `UpdateContext`, `Navigate`)
-
-### Día 10
-Validaciones, notificaciones y errores comunes
-
-### Día 11
-CRUD con SharePoint y Excel (Crear, Leer, Editar, Eliminar datos)
-
-### Día 12
-Diseño UX/UI profesional para Power Apps (tips visuales)
-
-### Día 13
-Componentes reutilizables y pantallas maestras
-
-### Día 14
-Publicación, compartir y permisos de una app Canvas
-
-### Día 15
-Power Automate: Crear flujos automáticos, instantáneos y programados
-
-### Día 16
-Variables, condiciones y bucles en Power Automate
-
-### Día 17
-Uso avanzado de expresiones y control de errores
-
-### Día 18
-Introducción a Dataverse: estructura, tablas, relaciones
-
-### Día 19
-Crear y usar tablas personalizadas en Dataverse
-
-### Día 20
-Power Automate + Dataverse: crear flujos conectados
-
-### Día 21
-Seguridad en Dataverse: roles, permisos, columnas confidenciales
-
-### Día 22
-Power Apps Model-Driven: estructura y lógica de negocio
-
-### Día 23
-Power Virtual Agents y Copilot Studio: crear tu primer chatbot
-
-### Día 24
-Custom Connectors: consumir APIs externas desde Power Apps
-
-### Día 25
-PDF, Email, y adjuntos desde Power Automate
-
-### Día 26
-Power BI y Power Platform: integrar informes a tus apps
-
-### Día 27
-Soluciones, entornos, exportación/importación
-
-### Día 28
-Centro de Excelencia (CoE): visión general y mejores prácticas
-
-### Día 29
-Casos reales: cómo estructurar apps para RH, EHS, viajes, etc.
-
-### Día 30
-Publica tu portafolio: GitHub, LinkedIn, tips para conseguir clientes o empleo
+> From beginner to expert in Power Apps, Power Automate, Dataverse, and more
 
 ---
 
-### 📂 Recomendaciones para organizar el repositorio:
-- `/Dia01` hasta `/Dia30` con archivo `README.md` en cada carpeta
-- Carpeta `/Recursos` para imágenes, íconos o descargas
-- Carpeta `/AppsEjemplo` para subir `.msapp`, `.zip` de flujos, JSONs, etc.
+## ✅ Course Outline
 
-¿Listo para comenzar? 🚀
+### Day 1
+What is Power Platform? – Overview, components, and use cases
+
+### Day 2
+Create your free trial environment and explore the Maker Portal
+
+### Day 3
+Introduction to Power Apps (Canvas vs Model-driven)
+
+### Day 4
+Build your first Canvas app from a template
+
+### Day 5
+Connectors: What they are and how they work (SharePoint, Excel, Dataverse)
+
+### Day 6
+Introduction to Power Automate – Your first automated flow
+
+### Day 7
+Best practices for working with the Power Platform interface
+
+### Day 8
+Controls: Forms, galleries, buttons, dropdowns
+
+### Day 9
+Variables and context (`Set`, `UpdateContext`, `Navigate`)
+
+### Day 10
+Validations, notifications, and common errors
+
+### Day 11
+CRUD operations with SharePoint and Excel (Create, Read, Update, Delete)
+
+### Day 12
+Professional UX/UI design for Power Apps (visual tips)
+
+### Day 13
+Reusable components and master screens
+
+### Day 14
+Publishing, sharing, and permissions in a Canvas app
+
+### Day 15
+Power Automate: Creating automated, instant, and scheduled flows
+
+### Day 16
+Variables, conditions, and loops in Power Automate
+
+### Day 17
+Advanced use of expressions and error handling
+
+### Day 18
+Introduction to Dataverse: structure, tables, and relationships
+
+### Day 19
+Creating and using custom tables in Dataverse
+
+### Day 20
+Power Automate + Dataverse: build connected flows
+
+### Day 21
+Dataverse security: roles, permissions, and column-level security
+
+### Day 22
+Model-Driven Power Apps: structure and business logic
+
+### Day 23
+Power Virtual Agents & Copilot Studio: build your first chatbot
+
+### Day 24
+Custom Connectors: consume external APIs in Power Apps
+
+### Day 25
+PDF generation, emails, and attachments using Power Automate
+
+### Day 26
+Power BI + Power Platform: embed reports into your apps
+
+### Day 27
+Solutions, environments, export/import practices
+
+### Day 28
+Center of Excellence (CoE): overview and best practices
+
+### Day 29
+Real-life use cases: how to structure apps for HR, EHS, travel, etc.
+
+### Day 30
+Publish your portfolio: GitHub, LinkedIn, and tips to get clients or jobs
