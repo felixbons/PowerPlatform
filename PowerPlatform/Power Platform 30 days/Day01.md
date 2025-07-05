@@ -32,7 +32,7 @@ Power Platform consists of **four core components** that work seamlessly togethe
 
 | Area                 | Use Cases                                             |                                             |
 | -------------------- | ----------------------------------------------------- | ------------------------------------------------- |
-| **Operations**       | Approvals, Inventory Management, Asset Tracking       | ![Operations](/PowerPlatform/assets/PowerPlatform30days/Day1/Operations.png){ .small-img }            |
+| **Operations**       | Approvals, Inventory Management, Asset Tracking       | <img src="/PowerPlatform/assets/PowerPlatform30days/Day1/Operations.png" alt="Operations" width="200" height="200"/>            |
 | **Finance**          | Expense Reports, Budget Approvals, Invoice Automation | ![Finance](/PowerPlatform/assets/PowerPlatform30days/Day1/Finance.png){ .small-img }                  |
 | **HR**               | Employee Onboarding, Leave Requests, Surveys          | ![HR](/PowerPlatform/assets/PowerPlatform30days/Day1/HR.png){ .small-img }                            |
 | **Field Service**    | Inspections, Mobile Data Entry, Incident Tracking     | ![Field Service](/PowerPlatform/assets/PowerPlatform30days/Day1/FieldServices.png){ .small-img }       |
