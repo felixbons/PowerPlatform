@@ -35,12 +35,16 @@ This environment is ideal for learning and experimentation. It gives you access 
 - After setup, you’ll land in the **Power Apps Maker Portal**:  
   [https://make.powerapps.com](https://make.powerapps.com)
 - On the left panel, you can:
+  - Create **Apps with Copilot**
   - Create **Canvas apps**
-  - Explore **Model-driven apps**
-  - Launch **Power Automate**
+  - Explore **Documentation**
+  - Create **Plans**
+  - Launch **PowerApps**
+  - Discover **AI capabilities**
   - Manage **Dataverse tables**
+  - Launch **Flows**
   - Access **Solutions**, **Chatbots**, and **AI tools**
-
+![Maker Portal](/PowerPlatform/assets/PowerPlatform30days/Day2/MakerPortal.png)
 ### ✅ Step 5: Pin the Portal for Quick Access
 
 - Bookmark or pin the portal in your browser for quick future access.
