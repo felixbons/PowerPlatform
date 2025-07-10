@@ -31,6 +31,9 @@ Understanding the key differences between both will help you decide the best fit
 4. Use the left panel to insert a **label**, **button**, or **gallery**
 5. Save and Preview the app (`Play` button)
 
+![Start With a Page Design](/PowerPlatform/assets/PowerPlatform30days/Day3/Startwithapagedesign.png)
+![Select Canvas](/PowerPlatform/assets/PowerPlatform30days/Day3/SelectCanvas.png)
+![Canvas App](/PowerPlatform/assets/PowerPlatform30days/Day3/CanvasApp.png)
 ---
 
 ### ✅ Step 3: Create a Model-driven App
@@ -41,6 +44,13 @@ Understanding the key differences between both will help you decide the best fit
 4. Select **Dataverse tables** you want to include (e.g., Contact, Account)
 5. Add navigation and pages
 6. Click **Publish** and then **Play**
+
+![Start With a Page Design](/PowerPlatform/assets/PowerPlatform30days/Day3/Startwithapagedesign.png)
+![Select Model-Driven](/PowerPlatform/assets/PowerPlatform30days/Day3/SelectModelDriven.png)
+![Model-Drive Name](/PowerPlatform/assets/PowerPlatform30days/Day3/ModelDrivenName.png)
+![Model-Driven Add Page](/PowerPlatform/assets/PowerPlatform30days/Day3/ModelDrivenAddPage.png)
+![Model-Driven Select Table](/PowerPlatform/assets/PowerPlatform30days/Day3/ModelDrivenSelectTable.png)
+![Model-Driven App](/PowerPlatform/assets/PowerPlatform30days/Day3/ModelDrivenApp.png)
 
 ---
 
