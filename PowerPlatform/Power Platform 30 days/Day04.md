@@ -24,14 +24,17 @@ In this session, you’ll create your first Canvas app using a template. This he
 1. On the left menu, click **Apps**
 2. Click **+ New app** > **Canvas app from template**
 3. Browse the available templates such as:
-   - **Budget Tracker**
-   - **Site Inspection**
-   - **Help Desk**
+   - **Power Apps Training for Office**
+   - **Shoutouts**
+   - **Onboarding Tasks**
    - **Service Desk**
-4. Select a template (e.g., **Help Desk**) and click **Use**
-5. Choose **Phone layout** or **Tablet layout**
-6. Click **Create**
+4. Select a template (e.g., **Onboarding Tasks**), add the **App Name** and click in Next
+5. Add the **App Name** and click in **Next Button**
+6. Sign in required connections and **Allow**
 
+![Start with a Template](/PowerPlatform/assets/PowerPlatform30days/Day4/StartWithATemplate.png)
+![Select template](/PowerPlatform/assets/PowerPlatform30days/Day4/SelectTemplate.png)
+![Allow connections](/PowerPlatform/assets/PowerPlatform30days/Day4/AllowConnections.png)
 ---
 
 ### ✅ Step 3: Explore the App Structure
@@ -41,7 +44,7 @@ In this session, you’ll create your first Canvas app using a template. This he
   - **Galleries** and **Forms**
   - Existing **data connections**
 - Click **Play** (▶️) in the top-right to run the app
-
+![Review App](/PowerPlatform/assets/PowerPlatform30days/Day4/ReviewApp.png)
 ---
 
 ### ✅ Step 4: Customize the App
