@@ -34,7 +34,8 @@ In this session, you’ll create your first Canvas app using a template. This he
 
 ![Start with a Template](/PowerPlatform/assets/PowerPlatform30days/Day4/StartWithATemplate.png)
 ![Select template](/PowerPlatform/assets/PowerPlatform30days/Day4/SelectTemplate.png)
-![Allow connections](/PowerPlatform/assets/PowerPlatform30days/Day4/AllowConnections.png)
+![Add Name](/PowerPlatform/assets/PowerPlatform30days/Day4/SelectTemplate.png)
+![Allow connections](/PowerPlatform/assets/PowerPlatform30days/Day4/AddName.png)
 ---
 
 ### ✅ Step 3: Explore the App Structure
@@ -53,17 +54,16 @@ In this session, you’ll create your first Canvas app using a template. This he
 - Update colors or layout using the right-hand **properties panel**
 - Add a new control like a **Button** or **Dropdown**
 - Save your work:
-  - Click **File** > **Save**
-  - Choose **Cloud** location
+  - Click **Save** button to top right
 
 ---
 
 ### ✅ Step 5: Share or Publish
 
 - After saving:
-  - Click **File** > **Share** to give access to others
+  - Click **Share** top rigth
   - Or click **Publish** > **Publish this version** to finalize it
-
+![Share, Save and Publish](/PowerPlatform/assets/PowerPlatform30days/Day4/ShareAndSave.png)
 ---
 
 ## 🔎 What You Should Try Today
