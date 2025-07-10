@@ -26,24 +26,21 @@ Understanding the key differences between both will help you decide the best fit
 ### ✅ Step 2: Create a Canvas App
 
 1. Go to [https://make.powerapps.com](https://make.powerapps.com)
-2. Click **Apps** > **+ New app** > **Canvas app**
+2. Click **Apps** > **+ New app** > **Start with a page design** > **Blank Canvas**
 3. Choose **Phone** or **Tablet layout**
-4. Give your app a name like `CanvasExample`
-5. Click **Create**
-6. Use the left panel to insert a **label**, **button**, or **gallery**
-7. Save and Preview the app (`Play` button)
+4. Use the left panel to insert a **label**, **button**, or **gallery**
+5. Save and Preview the app (`Play` button)
 
 ---
 
 ### ✅ Step 3: Create a Model-driven App
 
 1. Still in [https://make.powerapps.com](https://make.powerapps.com), go to **Apps**
-2. Click **+ New app** > **Model-driven app**
-3. Choose **Modern App Designer**
-4. Name it `ModelDrivenExample`
-5. Select **Dataverse tables** you want to include (e.g., Contact, Account)
-6. Add navigation and pages
-7. Click **Publish** and then **Play**
+2. Click **Apps** + **New app** >  > **Start with a page design** > **Blank page with navigation**
+3. Name it `ModelDrivenExample`
+4. Select **Dataverse tables** you want to include (e.g., Contact, Account)
+5. Add navigation and pages
+6. Click **Publish** and then **Play**
 
 ---
 
