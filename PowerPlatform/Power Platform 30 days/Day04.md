@@ -34,8 +34,8 @@ In this session, you’ll create your first Canvas app using a template. This he
 
 ![Start with a Template](/PowerPlatform/assets/PowerPlatform30days/Day4/StartWithATemplate.png)
 ![Select template](/PowerPlatform/assets/PowerPlatform30days/Day4/SelectTemplate.png)
-![Add Name](/PowerPlatform/assets/PowerPlatform30days/Day4/SelectTemplate.png)
-![Allow connections](/PowerPlatform/assets/PowerPlatform30days/Day4/AddName.png)
+![Add Name](/PowerPlatform/assets/PowerPlatform30days/Day4/AddName.png)
+![Allow connections](/PowerPlatform/assets/PowerPlatform30days/Day4/AllowConnections.png)
 ---
 
 ### ✅ Step 3: Explore the App Structure
