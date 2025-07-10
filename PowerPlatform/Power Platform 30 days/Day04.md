@@ -63,6 +63,7 @@ In this session, you’ll create your first Canvas app using a template. This he
 - After saving:
   - Click **Share** top rigth
   - Or click **Publish** > **Publish this version** to finalize it
+
 ![Share, Save and Publish](/PowerPlatform/assets/PowerPlatform30days/Day4/ShareAndSave.png)
 ---
 
