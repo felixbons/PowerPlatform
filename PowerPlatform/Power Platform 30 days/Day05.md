@@ -18,17 +18,25 @@ In this session, you’ll learn how connectors work, when to use each, and how t
 - **Premium connectors**: Require a license (e.g., SQL Server, Dataverse, Salesforce)
 - **Custom connectors**: Built by you to connect with external APIs
 
+[List of all Standard tier connectors](https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-standard-connectors)
 ---
 
 ### ✅ Step 2: Add a SharePoint Connector
 
-1. In [https://make.powerapps.com](https://make.powerapps.com), open an existing or new **Canvas app**
+1. In [https://make.powerapps.com](https://make.powerapps.com), open an existing or new **Canvas app**, [you can follow Point 1 nad 2 from Day 4](https://github.com/felixbons/PowerPlatform/blob/main/PowerPlatform/Power%20Platform%2030%20days/Day04.md#-step-1-open-power-apps-maker-portal)
 2. Click **Data** (left panel)
 3. Click **+ Add data**
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/2and3.png)
 4. Search for **SharePoint** and click it
+![Search for SharePoint](/PowerPlatform/assets/PowerPlatform30days/Day5/4.png)
 5. Sign in with your credentials
-6. Enter your site URL and select a list (e.g., `Requests`, `Employees`)
-7. The list is now connected to your app and visible in the data pane
+![Credentials](/PowerPlatform/assets/PowerPlatform30days/Day5/5.png)
+6. Enter your site URL or select from recent sites 
+![Url SPO](/PowerPlatform/assets/PowerPlatform30days/Day5/6.png)
+7. Select a list (e.g., `Requests`, `Employees`) and click in connect
+![Select List](/PowerPlatform/assets/PowerPlatform30days/Day5/7.png)
+8. The list is now connected to your app and visible in the data pane
+![Select List](/PowerPlatform/assets/PowerPlatform30days/Day5/8.png)
 
 ---
 
