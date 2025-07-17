@@ -23,7 +23,7 @@ In this session, you’ll learn how connectors work, when to use each, and how t
 
 ### ✅ Step 2: Add a SharePoint Connector
 
-1. In [https://make.powerapps.com](https://make.powerapps.com), open an existing or new **Canvas app**, [you can follow Point 1 nad 2 from Day 4](https://github.com/felixbons/PowerPlatform/blob/main/PowerPlatform/Power%20Platform%2030%20days/Day04.md#-step-1-open-power-apps-maker-portal)
+1. In [https://make.powerapps.com](https://make.powerapps.com), open an existing or new **Canvas app**, [if you have questions, plase follow points 1 nad 2 from Day 4](https://github.com/felixbons/PowerPlatform/blob/main/PowerPlatform/Power%20Platform%2030%20days/Day04.md#-step-1-open-power-apps-maker-portal)
 2. Click **Data** (left panel)
 3. Click **+ Add data**
 ![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/Step1/2and3.png)
@@ -43,19 +43,30 @@ In this session, you’ll learn how connectors work, when to use each, and how t
 ### ✅ Step 3: Add an Excel Connector (Stored in OneDrive)
 
 1. From the **Data** panel, click **+ Add data**
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_1.png)
 2. Search for **Excel Online (Business)** or **OneDrive for Business**
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_2.png)
 3. Sign in to your OneDrive account
-4. Navigate to your Excel file (ensure it has **formatted tables**)
-5. Select the table(s) you want to use
-6. Now you can use it with galleries, forms, and dropdowns
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_3.png)
+4. Choose a Location in OneDrive for Business
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_4.png)
+5. Select OneDrive
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_5.png)
+6. Navigate to your Excel file (ensure it has **formatted tables**)
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_6.png)
+7. Select the table(s) you want to use
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_7.png)
+8. Insert auto generated id into Excel Table and connect 
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_8.png)
+9. Now you can use it with galleries, forms, and dropdowns
 
 ---
 
 ### ✅ Step 4: Connect to Dataverse Tables
 
 1. From **make.powerapps.com**, go to **Tables** under Dataverse
-2. Use a built-in table (e.g., `Contact`) or create your own
-3. In a Canvas app, open **Data** and add **Dataverse**
+2. Use a built-in table (e.g., `Account`) or create your own
+3. In a Canvas app, open **Data** and add **Dataverse** or tables available in recent tables.
 4. Choose the tables you want to use
 5. Dataverse allows you to model complex relationships and secure your data
 
