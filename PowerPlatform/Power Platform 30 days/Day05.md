@@ -43,9 +43,8 @@ In this session, you’ll learn how connectors work, when to use each, and how t
 ### ✅ Step 3: Add an Excel Connector (Stored in OneDrive)
 
 1. From the **Data** panel, click **+ Add data**
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_1.png)
 2. Search for **Excel Online (Business)** or **OneDrive for Business**
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_2.png)
+![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_1_2.png)
 3. Sign in to your OneDrive account
 ![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_3.png)
 4. Choose a Location in OneDrive for Business
