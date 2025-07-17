@@ -46,17 +46,17 @@ In this session, you’ll learn how connectors work, when to use each, and how t
 2. Search for **Excel Online (Business)** or **OneDrive for Business**
 ![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_1_2.png)
 3. Sign in to your OneDrive account
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_3.png)
+![Sign in OneDrive](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_3.png)
 4. Choose a Location in OneDrive for Business
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_4.png)
+![Choose Location](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_4.png)
 5. Select OneDrive
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_5.png)
+![Select OneDrive](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_5.png)
 6. Navigate to your Excel file (ensure it has **formatted tables**)
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_6.png)
+![Select the file](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_6.png)
 7. Select the table(s) you want to use
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_7.png)
+![Select the table](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_7.png)
 8. Insert auto generated id into Excel Table and connect 
-![Data and Add Data](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_8.png)
+![Add ID row](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step3_8.png)
 9. Now you can use it with galleries, forms, and dropdowns
 
 ---
@@ -67,16 +67,19 @@ In this session, you’ll learn how connectors work, when to use each, and how t
 2. Use a built-in table (e.g., `Account`) or create your own
 3. In a Canvas app, open **Data** and add **Dataverse** or tables available in recent tables.
 4. Choose the tables you want to use
+![Add ID row](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step4_1.png)
 5. Dataverse allows you to model complex relationships and secure your data
+![Add ID row](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step4_2.png)
 
 ---
 
 ### ✅ Step 5: Use Connected Data in Your App
 
 - Use **Gallery.Items = [YourDataSource]** to show data
+![Use data source added](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step5_1.png)
 - Use **Form.DataSource = [YourDataSource]** to edit records
 - Use functions like **Patch**, **Collect**, **LookUp**, and **Filter** to interact with data
-
+![Show data in different galleries](/PowerPlatform/assets/PowerPlatform30days/Day5/NextSteps/Step5_2.png)
 ---
 
 ## 🔎 What You Should Try Today
