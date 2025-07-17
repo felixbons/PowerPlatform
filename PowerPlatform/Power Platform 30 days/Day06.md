@@ -27,25 +27,30 @@ In this session, you’ll create your first **automated cloud flow**, triggered 
 4. Search for a trigger (e.g., **When a new email arrives (V3)**)
 5. Choose the Outlook connection
 6. Click **Create**
+![Create Flow](/PowerPlatform/assets/PowerPlatform30days/Day6/Step2.png)
 
 ---
 
 ### ✅ Step 3: Add an Action
 
 1. After the trigger is set, click **+ New step**
-2. Search for **Send me a mobile notification** or **Send an email (V2)**
-3. Fill in the required fields (e.g., email subject, body)
-4. Use dynamic content like `From`, `Subject`, or `Body` from the email trigger
+2. Search for **Create item**
+3. Select SharePoint Option **Create item**
+![Create Flow](/PowerPlatform/assets/PowerPlatform30days/Day6/Step3_1.png)
+3. Select the SPO site and the List
+4. Add title `Filled from flow` 
+![Create Flow](/PowerPlatform/assets/PowerPlatform30days/Day6/Step3_2.png)
 
 ---
 
 ### ✅ Step 4: Save and Test the Flow
 
 - Click **Save** at the bottom right
+![Create Flow](/PowerPlatform/assets/PowerPlatform30days/Day6/Step4_1.png)
 - Click **Test** > **Manually**
-- Perform the trigger action (e.g., send yourself an email)
+![Create Flow](/PowerPlatform/assets/PowerPlatform30days/Day6/Step4_2.png)
 - Wait for the flow to run and check the result in the **Run history**
-
+- Confimr in your SharePoint list that you have a new record.
 ---
 
 ### ✅ Step 5: Explore Flow Templates
@@ -55,7 +60,7 @@ In this session, you’ll create your first **automated cloud flow**, triggered 
 - Try out examples like:
   - Save email attachments to OneDrive
   - Post a Teams message when a SharePoint item is created
-
+![Templates](/PowerPlatform/assets/PowerPlatform30days/Day6/Step5.png)
 ---
 
 ## 🔎 What You Should Try Today
