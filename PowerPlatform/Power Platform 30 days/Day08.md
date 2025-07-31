@@ -29,6 +29,9 @@ In this session, you'll learn how to add and configure these controls, connect t
    ```
 5. Customize the gallery layout using the pane or by selecting controls inside the gallery (e.g., labels, images).
 
+![Add Gallery](/PowerPlatform/assets/PowerPlatform30days/Day8/Step1_2.png)
+
+
 ---
 
 ### ✅ Step 2: Add an Edit Form for Record Updates
@@ -46,6 +49,8 @@ In this session, you'll learn how to add and configure these controls, connect t
 5. In the right pane, click **Edit fields** to choose which columns to show.
 6. Optionally, switch to a **Display Form** to make it read-only.
 
+![Form](/PowerPlatform/assets/PowerPlatform30days/Day8/Step2.png)
+
 ---
 
 ### ✅ Step 3: Add a Button to Submit the Form
@@ -58,9 +63,19 @@ In this session, you'll learn how to add and configure these controls, connect t
    ```
 4. Optional: Add a confirmation label and set it to display a success message:
    ```powerfx
-   Label.Text = "Record saved successfully!"
+   Label.Text = "Record saved successfully!" or
+   Notify("Record saved successfully!",NotificationType.Success)
    ```
 
+5. Go to **Insert** > **Button**.
+6. Set the button’s **Text** property to `"New"`.
+7. Set its **OnSelect** action:
+   ```powerfx
+   OnSelect = NewForm(Form_Employee)
+   ```
+8. Adjust the button next to Submit button. 
+
+![Form](/PowerPlatform/assets/PowerPlatform30days/Day8/Step3.png)
 ---
 
 ### ✅ Step 4: Add a Dropdown Control
