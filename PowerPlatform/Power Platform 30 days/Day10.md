@@ -27,6 +27,8 @@ In this session, you’ll learn how to validate fields, display error or success
    ```
 4. Try clicking the button with and without typing into the text input to test the logic.
 
+![Step1](/PowerPlatform/assets/PowerPlatform30days/Day10/Step1.png)
+
 ---
 
 ### ✅ Step 2: Use Conditional Formatting for Visual Cues
@@ -38,9 +40,9 @@ In this session, you’ll learn how to validate fields, display error or success
    ```
 3. Set the **Color** property to red:
    ```powerfx
-   If(IsBlank(txt_Name.Text), Red, Transparent)
+   If(IsBlank(txt_Name.Text), Color.Red, Color.Transparent)
    ```
-
+![Step2](/PowerPlatform/assets/PowerPlatform30days/Day10/Step2.png)
 ---
 
 ### ✅ Step 3: Disable Submit Button Until Valid
@@ -49,7 +51,7 @@ In this session, you’ll learn how to validate fields, display error or success
    ```powerfx
    If(IsBlank(txt_Name.Text), DisplayMode.Disabled, DisplayMode.Edit)
    ```
-
+![Step3](/PowerPlatform/assets/PowerPlatform30days/Day10/Step3.png)
 ---
 
 ### ✅ Step 4: Handle Form Errors
@@ -64,6 +66,8 @@ In this session, you’ll learn how to validate fields, display error or success
    EditForm1.Error
    ```
 4. This will show backend errors if submission fails (e.g., required fields, connection issues).
+
+![Step4](/PowerPlatform/assets/PowerPlatform30days/Day10/Step4.png)
 
 ---
 

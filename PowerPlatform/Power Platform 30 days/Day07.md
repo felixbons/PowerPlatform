@@ -18,6 +18,7 @@ In this session, you’ll explore **interface best practices** for Power Apps an
   - ✅ Example: `btn_Submit`, `gal_Employees`, `txt_EmailInput`
   - ❌ Avoid: `Label1`, `TextInput3`
 - Use prefixes like `btn_`, `txt_`, `lbl_`, `gal_`, `var_` to identify the control or data type quickly.
+- Here is a good reference with more details about it [**Matthew Devaney**](https://www.matthewdevaney.com/power-apps-coding-standards-for-canvas-apps/power-apps-standards-naming-conventions/)
 
 ---
 

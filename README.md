@@ -6,7 +6,7 @@ Welcome to my **Power Platform** repository — a personal knowledge base and on
 
 ## 👨‍💻 About Me
 
-My name is **Felix Rios**, a certified **Principal Power Platform Developer and SharePoint Administrator** with over a decade of experience in building digital business solutions using Microsoft technologies.
+My name is **Jose Felix Rios Mesina**, a certified **Power Platform and SharePoint** with over a decade of experience in building digital business solutions using Microsoft technologies.
 
 I specialize in:
 - **Canvas and Model-Driven Power Apps**
