@@ -19,7 +19,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 2. Open or create a Canvas app
 3. Go to **Data** > **+ Add data**
 4. Search for and connect to:
-   - A SharePoint list (e.g., `EmployeeDirectory`)
+   - A SharePoint list (e.g., `Employees`)
    - An Excel file stored in OneDrive (with a formatted table)
 
 ---
@@ -29,7 +29,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 1. Insert a **Gallery** (e.g., Vertical layout)
 2. Set its **Items** property to your data source:
    ```powerfx
-   Items = EmployeeDirectory
+   Items = Employees
    ```
 3. Customize labels inside the gallery to show data fields (e.g., Title, Department)
 
@@ -40,7 +40,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 **Option 1: Using a Form**
 1. Insert an **Edit Form** and set:
    ```powerfx
-   DataSource = EmployeeDirectory
+   DataSource = Employees
    ```
 2. Set **DefaultMode** to:
    ```powerfx
@@ -55,7 +55,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 1. Add text inputs: `txt_Name`, `txt_Department`
 2. Use this formula in a button:
    ```powerfx
-   Patch(EmployeeDirectory, Defaults(EmployeeDirectory), {
+   Patch(Employees, Defaults(Employees), {
        Title: txt_Name.Text,
        Department: txt_Department.Text
    })
@@ -83,7 +83,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 1. Add a **Trash icon** or button in the gallery
 2. Set its **OnSelect**:
    ```powerfx
-   Remove(EmployeeDirectory, ThisItem)
+   Remove(Employees, ThisItem)
    ```
 
 ---
