@@ -21,6 +21,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 4. Search for and connect to:
    - A SharePoint list (e.g., `Employees`)
    - An Excel file stored in OneDrive (with a formatted table)
+
 ![Add Data](/PowerPlatform/assets/PowerPlatform30days/Day11/Step1.png)
 
 ---
@@ -33,6 +34,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
    Items = Employees
    ```
 3. Customize labels inside the gallery to show data fields (e.g., Title, Department)
+
 ![Read data](/PowerPlatform/assets/PowerPlatform30days/Day11/Step2.png)
 
 ---
