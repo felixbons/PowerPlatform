@@ -21,6 +21,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 4. Search for and connect to:
    - A SharePoint list (e.g., `Employees`)
    - An Excel file stored in OneDrive (with a formatted table)
+![Add Data](/PowerPlatform/assets/PowerPlatform30days/Day11/Step1.png)
 
 ---
 
@@ -32,6 +33,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
    Items = Employees
    ```
 3. Customize labels inside the gallery to show data fields (e.g., Title, Department)
+![Read data](/PowerPlatform/assets/PowerPlatform30days/Day11/Step2.png)
 
 ---
 
@@ -50,6 +52,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
    ```powerfx
    SubmitForm(EditForm1)
    ```
+![Create a Record](/PowerPlatform/assets/PowerPlatform30days/Day11/Step3_1.png)
 
 **Option 2: Using `Patch()`**
 1. Add text inputs: `txt_Name`, `txt_Department`
@@ -60,6 +63,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
        Department: txt_Department.Text
    })
    ```
+![use Patch](/PowerPlatform/assets/PowerPlatform30days/Day11/Step3_2.png)
 
 ---
 
@@ -75,6 +79,7 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
    SubmitForm(EditForm1)
    ```
    This updates the selected record.
+![Update a Record](/PowerPlatform/assets/PowerPlatform30days/Day11/Step4.png)
 
 ---
 
@@ -83,8 +88,9 @@ In this session, you'll learn how to connect your app to SharePoint and Excel, u
 1. Add a **Trash icon** or button in the gallery
 2. Set its **OnSelect**:
    ```powerfx
-   Remove(Employees, ThisItem)
+   Remove(Employees, <Gallery>.Selected)
    ```
+![Delete a Record](/PowerPlatform/assets/PowerPlatform30days/Day11/Step5.png)
 
 ---
 
