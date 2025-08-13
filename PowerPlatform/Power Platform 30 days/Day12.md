@@ -24,16 +24,29 @@ Today you'll learn visual design best practices for Power Apps, including layout
 
 ### ✅ Step 2: Apply a Color Palette
 
-1. Define a small set of brand or theme colors:
+1. Define a small set of brand or theme colors, also you can use a function to call the theme:
    - Primary: `#0078D4` (blue)
    - Secondary: `#F3F2F1` (light gray)
    - Accent/Error: `#D13438` (red)
+
 2. Apply color using the **Fill** and **BorderColor** properties:
    ```powerfx
    Fill = ColorValue("#F3F2F1")
    ```
 3. Use contrast for accessibility — light backgrounds with dark text.
+[Check for more information](https://accessibility.umich.edu/basics/concepts-principles/contrast)
 
+4. Use a formula to centralize the information, allowing for quick and easy theme updates
+   ```powerfx
+   ----Formula-----
+   varTheme = {
+      Primary: RGBA(123, 134, 144, 1),
+      Secondary: RGBA(134, 134, 144, 1)
+   };
+
+   ----How to implement-----
+   varTheme.Primary
+   ```
 ---
 
 ### ✅ Step 3: Use Standard Fonts and Font Sizes
@@ -55,7 +68,7 @@ Today you'll learn visual design best practices for Power Apps, including layout
    ```powerfx
    Icon + Label (side by side inside a container)
    ```
-
+![Buttons Examples](/PowerPlatform/assets/PowerPlatform30days/Day12/12-08-2025_21-56-22.png)
 ---
 
 ### ✅ Step 5: Create Reusable Components
