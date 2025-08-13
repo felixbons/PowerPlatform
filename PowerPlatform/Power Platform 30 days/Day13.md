@@ -24,8 +24,10 @@ Today, you'll learn how to create custom components, build master screen layouts
 5. Set properties like `HeaderTitle` or `OnIconSelect` as **custom properties**:
    - Click **+ New custom property**
    - Name: `HeaderTitle` (Input, Text)
-   - Name: `OnIconSelect` (Input, Behavior)
+   - Name: `OnIconSelect` (Input, Event, Return Type = boolean)
+   ![Firsts Steps](/PowerPlatform/assets/PowerPlatform30days/Day13/12-08-2025_22-06-00.png)
 6. Bind label text and icon’s `OnSelect` to these properties.
+   ![Last Step](/PowerPlatform/assets/PowerPlatform30days/Day13/12-08-2025_22-09-51.png)
 
 ---
 

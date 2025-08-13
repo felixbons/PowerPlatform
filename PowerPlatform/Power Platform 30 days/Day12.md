@@ -44,7 +44,7 @@ Today you'll learn visual design best practices for Power Apps, including layout
       Secondary: RGBA(134, 134, 144, 1)
    };
 
-   ----How to implement-----
+   ----Implementation Steps-----
    varTheme.Primary
    ```
 ---
