@@ -56,7 +56,7 @@ Today, you'll learn how to create custom components, build master screen layouts
 
 ### ✅ Step 4: Use a Component Library (For Multi-App Use)
 
-1. Go to **Apps > Component Libraries > + New component library**
+1. Go to **More > App enhancements > Component libraries > + New component library**
 2. Create reusable components (header, footer, confirmation dialog, etc.)
 3. In your app, go to **Insert > Get more components**
 4. Import components from your library
