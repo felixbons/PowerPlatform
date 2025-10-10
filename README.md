@@ -81,5 +81,5 @@ If you’re learning Power Platform or working on similar projects, feel free to
 
 Let’s build smarter, faster, and better — together!
 
-> _Felix Rios | Manager-Architect | Power Platform | SharePoint
+> _Felix Rios | Power Platform | SharePoint
 > _GitHub: [@felixbons](https://github.com/felixbons)_
