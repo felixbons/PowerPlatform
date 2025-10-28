@@ -23,6 +23,7 @@ Today you'll learn how to initialize and modify variables, write conditional log
    - **Value**: `0` (for numbers) or leave blank
 4. This variable can now be updated later in the flow
 
+![Step 1](/PowerPlatform/assets/PowerPlatform30days/Day16/Step_1.png)
 ---
 
 ### ✅ Step 2: Set or Increment a Variable
@@ -34,7 +35,7 @@ Today you'll learn how to initialize and modify variables, write conditional log
    Value = 1  (for increment)
    Value = "Completed" (for string set)
    ```
-
+![Step 2](/PowerPlatform/assets/PowerPlatform30days/Day16/Step_2.png)
 ---
 
 ### ✅ Step 3: Add a Condition
@@ -47,6 +48,7 @@ Today you'll learn how to initialize and modify variables, write conditional log
 3. Inside **If yes** and **If no**, add the actions to perform depending on the result
 4. Use **dynamic content** or expressions like `@equals(...)`, `@empty(...)`, etc.
 
+![Step 3](/PowerPlatform/assets/PowerPlatform30days/Day16/Step_3.png)
 ---
 
 ### ✅ Step 4: Use an "Apply to each" Loop
@@ -55,6 +57,7 @@ Today you'll learn how to initialize and modify variables, write conditional log
 2. Choose an array or collection (e.g., value from a SharePoint list)
 3. Inside the loop, add the action(s) to perform for each item
 
+![Step 4](/PowerPlatform/assets/PowerPlatform30days/Day16/Step_4.png)
 ---
 
 ### ✅ Step 5: Use a "Do Until" Loop
@@ -66,6 +69,7 @@ Today you'll learn how to initialize and modify variables, write conditional log
    - Increment the counter
 4. Be sure to add a **timeout or limit** to avoid infinite loops
 
+![Step 5](/PowerPlatform/assets/PowerPlatform30days/Day16/Step_5.png)
 ---
 
 ## 🔎 What You Should Try Today
