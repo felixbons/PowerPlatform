@@ -12,6 +12,7 @@ Power Automate supports three types of flows:
 
 In this session, you'll learn how to create each type of flow and understand their common use cases.
 
+![Step 1](/PowerPlatform/assets/PowerPlatform30days/Day15/Day15_1.png)
 ---
 
 ## 🧭 Step-by-Step Guide
@@ -29,6 +30,8 @@ In this session, you'll learn how to create each type of flow and understand the
    ```
 7. Save and test the flow
 
+![Automated Flow](/PowerPlatform/assets/PowerPlatform30days/Day15/Day15_2.png)
+
 ---
 
 ### ✅ Step 2: Create an Instant Flow
@@ -41,6 +44,8 @@ In this session, you'll learn how to create each type of flow and understand the
    ```
 4. Save the flow
 5. Run it manually from **My Flows** or from the **Power Automate mobile app**
+
+![Instant Flow](/PowerPlatform/assets/PowerPlatform30days/Day15/Day15_3.png)
 
 ---
 
@@ -58,6 +63,8 @@ In this session, you'll learn how to create each type of flow and understand the
    - Clean up records
 5. Save and monitor the run history
 
+![Schedule flow](/PowerPlatform/assets/PowerPlatform30days/Day15/Day15_4.png)
+
 ---
 
 ### ✅ Step 4: Monitor and Edit Flows
@@ -67,6 +74,8 @@ In this session, you'll learn how to create each type of flow and understand the
    - View run history
    - Check for errors
    - Edit or turn off the flow
+
+![Monitor and edit flows](/PowerPlatform/assets/PowerPlatform30days/Day15/Day15_5.png)
 
 ---
 
