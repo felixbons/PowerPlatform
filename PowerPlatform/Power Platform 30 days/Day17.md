@@ -25,6 +25,8 @@ In this session, you'll learn how to use common advanced expressions, handle exc
    - `addDays(utcNow(), 3)`
    - `length(body('Get_items')?['value'])`
 
+![Step 1](/PowerPlatform/assets/PowerPlatform30days/Day17/Step1.png)
+
 ---
 
 ### ✅ Step 2: Nest Expressions
@@ -38,7 +40,6 @@ In this session, you'll learn how to use common advanced expressions, handle exc
   ```text
   coalesce(triggerBody()?['Email'], 'default@company.com')
   ```
-
 ---
 
 ### ✅ Step 3: Add a Scope for Grouping Actions
@@ -46,6 +47,8 @@ In this session, you'll learn how to use common advanced expressions, handle exc
 1. Add a **Scope** from **Control > Scope**
 2. Place multiple actions inside (e.g., Get items + Send email)
 3. Use scopes to logically group success or failure actions
+
+![Step 2](/PowerPlatform/assets/PowerPlatform30days/Day17/Step2.png)
 
 ---
 
@@ -58,6 +61,8 @@ In this session, you'll learn how to use common advanced expressions, handle exc
    - After success
    - After skipped
 4. Add a **Send email** or **Compose** step to notify on failure
+
+![Step 3](/PowerPlatform/assets/PowerPlatform30days/Day17/Step3.png)
 
 ---
 
